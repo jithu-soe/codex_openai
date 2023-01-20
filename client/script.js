@@ -92,7 +92,7 @@ const handleSubmit = async (e) => {
     // messageDiv.innerHTML = "..."
     loader(messageDiv)
 
-    const response = await fetch('https://chitti-robot.onrender.com', {
+    const response = await fetch('https://chitti-robot.onrender.com/', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
