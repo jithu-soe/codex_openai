@@ -4,7 +4,7 @@
 
 
 
-import bot from './assets/bot.svg'
+import bot from './assets/chitti.jpeg'
 import user from './assets/user.svg'
 
 const form = document.querySelector('form');
