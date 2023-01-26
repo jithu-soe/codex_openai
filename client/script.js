@@ -5,7 +5,7 @@
 
 
 import bot from './assets/chitti.jpeg'
-import user from './assets/user.svg'
+import user from './assets/jithu.jpg'
 
 const form = document.querySelector('form');
 const chatContainer = document.querySelector('#chat_container');
